@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="35" height="35"><h3 align="center">Software engineer student from Moscow🇷🇺</h3>
 
 
-* [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+see+ya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+see+ya)](https://git.io/typing-svg)
 
 
 
