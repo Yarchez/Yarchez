@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/aguynamedyarik?igsh=MXhkcmtuczg1a2R2ag%3D%3D&utm_source=qr" target="_blank">Yarik</a> 
+<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 <a href="https://www.instagram.com/aguynamedyarik?igsh=MXhkcmtuczg1a2R2ag%3D%3D&utm_source=qr" target="_blank">𝕐𝕒𝕣𝕚𝕜</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="35" height="35"><h3 align="center">Software engineer student from Moscow🇷🇺</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+see+you+here+🫶)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+see+ya)](https://git.io/typing-svg)
 
 ##Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
