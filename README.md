@@ -1,5 +1,5 @@
-<h1 align="center">Hi folks, I'm <a href="[https://daniilshat.ru/](https://www.instagram.com/aguynamedyarik?igsh=MXhkcmtuczg1a2R2ag%3D%3D&utm_source=qr)" target="_blank">Yarik</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/aguynamedyarik?igsh=MXhkcmtuczg1a2R2ag%3D%3D&utm_source=qr" target="_blank">Yarik</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="10"/></h1>
 <h3 align="center">Software engineer student from Moscow🇷🇺</h3>
 
 
@@ -38,7 +38,7 @@ Other:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/Yarchez/badges/small)](https://www.codewars.com/users/Yarchez) 
 
