@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/aguynamedyarik?igsh=MXhkcmtuczg1a2R2ag%3D%3D&utm_source=qr" target="_blank">Yarik</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="10"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"/></h1>
 <h3 align="center">Software engineer student from Moscow🇷🇺</h3>
 
 
