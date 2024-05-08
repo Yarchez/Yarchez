@@ -3,6 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+see+ya)](https://git.io/typing-svg)
 
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
 ##Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -36,7 +40,7 @@ Other:
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Yarchez/badges/small)](https://www.codewars.com/users/Yarchez) 
 
