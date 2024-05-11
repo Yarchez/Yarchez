@@ -43,5 +43,5 @@ Other:
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarchez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/Yarchez/badges/medium)](https://www.codewars.com/users/Yarchez) 
+[![codewars](https://www.codewars.com/users/Yarchez/badges/large)](https://www.codewars.com/users/Yarchez)   
 
