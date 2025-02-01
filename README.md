@@ -1,6 +1,3 @@
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 <a href="https://www.instagram.com/aguynamedyarik?igsh=MXhkcmtuczg1a2R2ag%3D%3D&utm_source=qr" target="_blank">𝕐𝕒𝕣𝕚𝕜</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="45" height="40"><h3 align="center">Data engineer from Moscow🇷🇺</h3>
 
@@ -39,5 +36,8 @@
   <img src="https://profile-counter.glitch.me/XiaomingX/count.svg" alt="Visitor's Count" />
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
