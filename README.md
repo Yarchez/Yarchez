@@ -1,11 +1,10 @@
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 <a href="https://www.instagram.com/aguynamedyarik?igsh=MXhkcmtuczg1a2R2ag%3D%3D&utm_source=qr" target="_blank">𝕐𝕒𝕣𝕚𝕜</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="45" height="40"><h3 align="center">Data engineer from Moscow🇷🇺</h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="45" height="40"><h3 align="center">Data engineer</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nice+to+see+ya,+friend" alt="Typing SVG" /></a>
 
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 ## 🔧 Technologies & Tools
